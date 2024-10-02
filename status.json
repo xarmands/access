@@ -1,4 +1,4 @@
 {
   "global": true,
-  "imp": true
+  "refimport": true
 }
