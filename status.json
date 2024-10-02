@@ -1,4 +1,5 @@
 {
   "global": true,
-  "refimport": true
+  "refimport": true,
+  "refquantum": true
 }
