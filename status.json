@@ -1,5 +1,6 @@
 {
   "global": true,
   "refimport": true,
-  "refquantum": true
+  "refquantum": true,
+  "melettGUI": true
 }
