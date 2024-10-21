@@ -2,5 +2,6 @@
   "global": true,
   "refimport": true,
   "refquantum": true,
-  "melettGUI": true
+  "melettGUI": true,
+  "wishlist": true
 }
