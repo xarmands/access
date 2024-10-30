@@ -3,5 +3,6 @@
   "refimport": true,
   "refquantum": true,
   "melettGUI": true,
-  "wishlist": true
+  "wishlist": true,
+  "refDiff": true
 }
