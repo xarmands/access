@@ -4,5 +4,6 @@
   "refquantum": true,
   "melettGUI": true,
   "wishlist": true,
-  "refDiff": true
+  "refDiff": true,
+  "nexus": true
 }
