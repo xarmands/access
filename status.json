@@ -6,5 +6,6 @@
   "wishlist": true,
   "refDiff": true,
   "nexus": true,
-  "fastapi": true
+  "fastapi": true,
+  "websocket": true
 }
