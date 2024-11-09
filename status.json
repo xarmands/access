@@ -5,5 +5,6 @@
   "melettGUI": true,
   "wishlist": true,
   "refDiff": true,
-  "nexus": true
+  "nexus": true,
+  "fastapi": true
 }
