@@ -7,5 +7,6 @@
   "refDiff": true,
   "nexus": true,
   "fastapi": true,
-  "websocket": true
+  "websocket": true,
+  "tasks": true
 }
