@@ -8,5 +8,5 @@
   "nexus": true,
   "fastapi": true,
   "websocket": true,
-  "tasks": true
+  "tasks": false
 }
