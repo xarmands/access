@@ -9,5 +9,6 @@
   "fastapi": true,
   "websocket": true,
   "tasks": true,
-  "algo": true
+  "algo": true,
+  "detailedDescription": true
 }
